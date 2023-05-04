@@ -1,4 +1,8 @@
 dsadasfasfaf
 sadafhqwkghkqjwg
 asfasfasfasf
+<<<<<<< HEAD
 asgwqgqwegqog
+=======
+asfawfqwf
+>>>>>>> qq2
